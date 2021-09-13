@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ComposeTest</string>
+    <string name="app_name">English ComposeTest</string>
+    <string name="first_value">english value 1</string>
+    <string name="second_value">english value 2</string>
 </resources>
