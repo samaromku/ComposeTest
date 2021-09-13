@@ -3,4 +3,5 @@
     <string name="app_name">Aghem ComposeTest</string>
     <string name="first_value">aghem value 1</string>
     <string name="second_value">aghem value 2</string>
+    <string name="third">agh 3</string>
 </resources>
